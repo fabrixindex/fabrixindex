@@ -1,6 +1,8 @@
 <h1 align="center"> Hola, I'm Fabricio Papetti 👋 </h1>
 
-<img src="https://imgur.com/xr3LzyS.jpg" alt="FotoDePerfil" style="border-radius: 15px; height: 140px;">
+<div style="text-align: center;">
+    <img src="https://imgur.com/xr3LzyS.jpg" alt="FotoDePerfil" style="border-radius: 15px; width: 100%; height: auto;">
+</div>
 
 ---
 
